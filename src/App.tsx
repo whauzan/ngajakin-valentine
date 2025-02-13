@@ -19,7 +19,7 @@ function App() {
   const firstImg =
     "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZweGpleTRrc2pqeHVodWFsOHkwaXlrMm16cnF6YjgwbHd4YTFtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HegFEAiFTit3ioM/giphy.gif";
   const secondImg =
-    "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFkeDN5MzZ1NXd4MnY1OWp6azRrMHVlaHI1ODR3ZHN3ZGNzbGhlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.gif";
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY2JrY2Q3OW00Z2lxNnBxbXZ4Ynl1bWR1Y3E2dWF0Z2QyYjh6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T86i6yDyOYz7J6dPhf/giphy.gif";
 
   const handleNo = () => {
     setNoClicks((prev) => prev + 1);
